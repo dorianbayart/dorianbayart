@@ -153,6 +153,6 @@ hobbies: [ "Photography", "Traveling", "Music", "Athletism", "Handball" ]
 
 <footer>
   <picture>
-    <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&height=85&type=waving&animation=fadeIn&color=0:aaaa,100:4444" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?section=footer&height=85&type=waving&animation=fadeIn&color=0:6666,30:cccc,60:cccc,100:6666" />
   </picture>
 </footer>
