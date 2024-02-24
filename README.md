@@ -34,10 +34,10 @@ Here are some ideas to get you started:
   
   <p>
     <a href="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" target="_blank">
-      <video loop autoplay height=150 src="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" type="video/webm">
+      <!--<video loop autoplay height=150 src="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" type="video/webm">
         <source src="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" type="video/webm" />
         Your browser doesn't support WebM video.
-      </video>
+      </video>-->
       <picture>
         <source srcset="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" type="image/webm" />
         <img height=150 src="https://ipfs.io/ipfs/QmZXPtGXK3pikNCRNUvjfaGeTwY5ja5zP2Zd2ZG9Q2zAAh/26.png" alt="Shadowy Super Coder NFT" />
