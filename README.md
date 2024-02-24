@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <header>
   <picture>
-    <img width="100%" src="https://capsule-render.vercel.app/api?section=header&height=125&text=%20Dorian%20Bayart%20&desc=&type=waving&animation=fadeIn&color=0:4444,100:aaaa&fontColor=adbac7&fontSize=28&fontAlignY=35" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?section=header&height=125&text=%20Dorian%20Bayart%20&desc=&type=waving&animation=fadeIn&color=0:6666,30:cccc,60:cccc,100:6666&fontColor=adbac7&fontSize=28&fontAlignY=35" />
   </picture>
 </header>
 
