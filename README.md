@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>
     <a href="https://t.me/dorianbayart" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40dorianbayart-26A5E4?logo=telegram"></a>
-    <a href="https://moe.onl/@dorianbayart" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40dorianbayart-000000?logo=x"></a>
+    <a href="https://x.com/@dorianbayart" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40dorianbayart-000000?logo=x"></a>
     <a href="https://linkedin.com/in/dorianbayart" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-dorianbayart-0A66C2?logo=linkedin"></a>
   </p>
   <p>
