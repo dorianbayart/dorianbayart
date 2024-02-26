@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Dorian Bayart
 located_in: Rennes, France 🇫🇷
-current_job: Software Engineer && Front-End Developer
+current_job: Software Engineer && Developer
 company: BBright - Hexaglobe
 education: [ "Engineer / Master's Degree in Electronic And Applied Physics" ]
 fields_of_interests:
