@@ -31,6 +31,12 @@ Here are some ideas to get you started:
     <a href="https://dorianbayart.github.io" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-dorianbayart.github.io-222222?logo=github"></a>
     <a href="https://github.com/sponsors/dorianbayart" target="_blank"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?logo=githubsponsors"></a>
   </p>
+  <p>
+    🔭 Currently working on <a href="https://dorianbayart.github.io/pixel-fortress/" target="_blank"><strong>Pixel Fortress</strong></a> &nbsp;—&nbsp; <a href="https://github.com/dorianbayart/pixel-fortress" target="_blank">repository</a>
+  </p>
+  <p>
+    <a href="https://ko-fi.com/W7W71WCAE1" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+  </p>
   
   <p>
     <a href="https://ipfs.io/ipfs/QmYzbTvmPUgabLHukU7uDGnSvgTJt5gMkrNHctEbrLVM6h/26.webm" target="_blank">
