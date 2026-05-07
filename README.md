@@ -32,7 +32,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/sponsors/dorianbayart" target="_blank"><img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?logo=githubsponsors"></a>
   </p>
   <p>
-    🔭 Currently working on <a href="https://dorianbayart.github.io/pixel-fortress/" target="_blank"><strong>Pixel Fortress</strong></a> &nbsp;—&nbsp; <a href="https://github.com/dorianbayart/pixel-fortress" target="_blank">repository</a>
+    🔭 Currently working on <a href="https://dorianbayart.github.io/pixel-fortress/" target="_blank"><strong>Pixel Fortress</strong></a> &nbsp;—&nbsp; <a href="https://github.com/dorianbayart/pixel-fortress" target="_blank">open source</a><br />
+    And <a href="https://0xdba.itch.io/pixel-surge" target="_blank"><strong>Pixel Surge</strong></a> (on Itch.io) &nbsp;—&nbsp; closed source
   </p>
   <p>
     <a href="https://ko-fi.com/W7W71WCAE1" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
